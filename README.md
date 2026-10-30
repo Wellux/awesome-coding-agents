@@ -380,6 +380,7 @@ Run many coding agents at once without losing track.
 - **[vibetunnel](https://github.com/amantus-ai/vibetunnel)** `★ 4.7k` · Turns any browser into a terminal so you can command your agents on the go.
 - **[chums](https://github.com/lcoutodemos/chums)** `★ 275` · Apple Watch and iPhone app to talk to Claude Code and Codex agents, each shown as a character.
 - **[tlive](https://github.com/y49/tlive)** `★ 215` · Self-hosted remote approvals and live monitoring for Claude Code and Codex via Telegram or web.
+- **[Sillage](https://github.com/MarlBurroW/sillage)** · Self-hosted, mobile-first web UI that drives the Claude Code and Codex CLIs on your own machine.
 
 ### Background and cloud runners
 
