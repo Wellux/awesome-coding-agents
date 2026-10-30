@@ -387,6 +387,7 @@ Run many coding agents at once without losing track.
 - **[background-agents](https://github.com/ColeMurray/background-agents)** `★ 3.4k` · Open-source system for running coding agents in the background in the cloud.
 - **[cloudroom](https://github.com/davidondrej/cloudroom)** `★ 1.1k` · Self-hostable Rust runtime that runs Claude Code, Codex and Pi in the cloud.
 - **[helixml/helix](https://github.com/helixml/helix)** `★ 824` · Private agent fleet with spec coding where each agent gets its own GPU-accelerated desktop.
+- **[orbi](https://github.com/orbi-build/orbi)** · Open-source, self-hostable agent that takes GitHub issues through independent review, merge and release; runs many in parallel on their own branches.
 - **[gastown-remote](https://github.com/numman-ali/gastown-remote)** `★ 38` · Deploys Gas Town to a VPS for always-on agent orchestration, reachable over Tailscale.
 
 ### Councils and second opinions
