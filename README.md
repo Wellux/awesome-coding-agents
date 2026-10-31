@@ -517,6 +517,7 @@ Catch what agents wrote before it ships.
 - **[testsprite-cli](https://github.com/TestSprite/testsprite-cli)** `★ 5.1k` · Official TestSprite CLI for AI-powered automated testing from the terminal.
 - **[qawolf/cli](https://github.com/qawolf/cli)** `★ 3.5k` · QA Wolf end-to-end testing from your terminal, CI or AI agent.
 - **[reticle](https://github.com/reticlehq/reticle)** `★ 1.3k` · Lets AI coding agents understand and verify the apps they build.
+- **[agent-qa](https://github.com/vostride/agent-qa)** · Tests web, Android and iOS apps through CLI/MCP with persistent memidex memory, validated self-improvement and reviewable run evidence.
 - **[bowser](https://github.com/disler/bowser)** `★ 268` · Agentic browser automation and UI testing system built from composable skills and subagents.
 
 ### Sessions and provenance
