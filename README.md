@@ -662,6 +662,7 @@ Guides, courses and curated lists for working with coding agents.
 - **[easy-vibe](https://github.com/datawhalechina/easy-vibe)** `★ 20.2k` · Beginner course in vibe coding for AI product builders.
 - **[vibe-vibe](https://github.com/datawhalechina/vibe-vibe)** `★ 6.2k` · Systematic vibe coding tutorial from zero to full-stack.
 - **[awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding)** `★ 5.4k` · Curated list of vibe coding references for collaborating with AI to write code.
+- **[taskade/awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding)** · Taskade-maintained list of vibe-coding tools and resources.
 - **[vibe-coding](https://github.com/EnzeD/vibe-coding)** `★ 4.8k` · Guide to vibe coding with Claude Code and Codex.
 - **[how-to-vibecoding](https://github.com/1EchA/how-to-vibecoding)** `★ 936` · Chinese tutorial series on vibe coding, from setup to multi-agent work with MCP and Skills.
 - **[Awesome-Vibecoding-Guide](https://github.com/bobvibes/Awesome-Vibecoding-Guide)** `★ 793` · Guide to AI-assisted coding drawn from real commercial projects.
