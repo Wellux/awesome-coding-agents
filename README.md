@@ -1,4 +1,4 @@
-<picture>
+﻿<picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/assets/header-dunkel.svg">
   <img alt="Awesome Coding Agents: Claude Code, Codex, OpenCode, Pi and Herdr with setups, parallel sessions, loops, code context, usage and guides." src=".github/assets/header-hell.svg" width="100%">
 </picture>
@@ -310,6 +310,7 @@ Switch accounts and watch the bill.
 - **[tokens](https://github.com/missuo/tokens)** `★ 282` · CLI and web leaderboard to track and compare AI coding-assistant token usage.
 - **[janekbaraniewski/openusage](https://github.com/janekbaraniewski/openusage)** `★ 236` · Dashboard that tracks spend and usage across Claude, Cursor, OpenRouter, Copilot and more.
 - **[Clawdmeter](https://github.com/weltern/Clawdmeter)** `★ 32` · Cross-platform desktop dashboard for Claude Code usage with live session and weekly limits.
+- **[agent-tap](https://github.com/nareshh74/agent-tap)** - Correlates local sessions, parent-to-child subagent spans, tool errors, scheduled crons, and local AI services (LiteLLM, Ollama, SearXNG, Firecrawl) across Claude Code, Codex, Copilot CLI, Aider, and Cline into SQLite with a local dashboard.
 - **[tokens-on-track](https://github.com/gnibu/tokens-on-track)** `★ 19` · Menu bar app that tracks Claude Code and Codex quota usage and pace.
 
 <sub><a href="#contents">back to contents</a></sub>
