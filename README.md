@@ -639,6 +639,7 @@ Catch what agents wrote before it ships.
 - **[ccsession](https://github.com/sorafujitani/ccsession)** `★ 51` · Picker built on fzf that resumes any past Claude Code session from its original directory.
 - **[claude-code-rewind](https://github.com/holasoymalva/claude-code-rewind)** `★ 31` · Time machine for Claude Code sessions with automatic snapshots, rollbacks and visual diffs.
 - **[claudereview](https://github.com/vignesh07/claudereview)** `★ 22` · CLI and web service to share encrypted Claude Code, Codex and Gemini CLI sessions.
+- **[Watch](https://github.com/can4hou6joeng4/Watch)** · Local CLI and desktop app for handing saved coding-agent sessions across tools, including a reviewed Claude Code to Codex Desktop import.
 
 <sub><a href="#contents">back to contents</a></sub>
 
