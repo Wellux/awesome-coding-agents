@@ -470,6 +470,7 @@ Run many coding agents at once without losing track.
 - **[Lody](https://github.com/LodyAI/Lody)** `★ 1.8k` · Shares coding agent sessions with a team across phone and desktop clients.
 - **[chums](https://github.com/lcoutodemos/chums)** `★ 318` · Apple Watch and iPhone app to talk to Claude Code and Codex agents, each shown as a character.
 - **[tlive](https://github.com/y49/tlive)** `★ 215` · Self-hosted remote approvals and live monitoring for Claude Code and Codex via Telegram or web.
+- **[Sillage](https://github.com/MarlBurroW/sillage)** · Self-hosted, mobile-first web UI that drives the Claude Code and Codex CLIs on your own machine.
 
 ### Background and cloud runners
 
